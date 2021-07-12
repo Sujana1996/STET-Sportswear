@@ -13,3 +13,4 @@ The main goal is the ensure STETs survival in an extremely competitive environme
 # Solution
 Question 4: Identify direct cost variances by calculating the direct cost variance for the fabric used in the Parkas product line, with a breakdown of this variance by cause. 
 ![image](https://user-images.githubusercontent.com/86486235/125305885-057d5500-e32f-11eb-8e73-7645591f6b77.png)
+![image](https://user-images.githubusercontent.com/86486235/125306702-b5eb5900-e32f-11eb-885a-99bb73d32d48.png)
